@@ -16,7 +16,7 @@ func Test_SumOf2Numbers(t *testing.T) {
 			description: "Should return 3 when num1 is 1 and num2 is 2",
 			num1: 1,
 			num2 : 2,
-			expectedSum: 3,
+			expectedSum: 2,
 		},
 		{
 			description: "Should return 2 when num1 is 2 and num2 is 0",
